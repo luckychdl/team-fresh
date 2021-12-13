@@ -9,7 +9,6 @@ const MainWrapper = styled.div`
 `
 const SlideImg = styled.img`
   width: 100vw;
-
 `
 const SlideWrapper = styled.div`
 width: 100vw;

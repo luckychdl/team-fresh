@@ -47,6 +47,5 @@ export const HambergerWrapper = styled.div`
 export const HambergerMenu = styled.img`
   width: 56px;
   height: 40px;
-
 `
 export const SideBarDropDownWrapper = styled.div``
